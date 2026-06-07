@@ -1,0 +1,10 @@
+# Nemecky pinc svet 411
+> Moderní magazín o vaření se sídlem v městě Praha, Praha.
+
+## Obsah webu
+- [Hlavní stránka](/index.html): Přehled publikací.
+- [O nás](/about.html): Kdo jsme a co děláme.
+- [Kontakt](/contact.html): Formulář a adresa.
+## Publikace
+- [Jak zlepšit týmovou produktivitu a komunikaci](/jak-zlepsit-tymovou-produktivitu-a-komunikaci.html)
+- [Jak vybrat nejlepší kontaktní gril pro domácnost](/jak-vybrat-nejlepsi-kontaktni-gril-pro-domacnost.html)
